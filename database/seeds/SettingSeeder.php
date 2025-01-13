@@ -26,7 +26,7 @@ class SettingSeeder extends Seeder
                 'CompanyName' => 'Stocky',
                 'CompanyPhone' => '6315996770',
                 'CompanyAdress' => '3618 Abia Martin Drive',
-                'footer' => 'Stocky - Ultimate Inventory With POS',
+                'footer' => 'Nexyify - Ultimate Inventory With POS',
                 'developed_by' => 'Stocky',
                 'logo' => 'logo-default.png',
             )
