@@ -19600,7 +19600,7 @@ ngb-rating .half {
     display: flex;
     top: 8px;
     left: -36px;#000000
-    background: #663399;
+    background: #000000;
     cursor: pointer;
     padding: 10px 8px;
     border-top-left-radius: 4px;
@@ -19610,7 +19610,7 @@ ngb-rating .half {
     font-size: 20px;
     transition: .3s all ease-in-out; }
     .customizer .h#000000over {
-      background: #663399;
+      background: #000000;
       color: #26222a; }
   .customizer .customizer-body {
     border-top-left-radius: 10px;

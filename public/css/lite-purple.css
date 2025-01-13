@@ -11568,7 +11568,7 @@ fieldset:disabled a.btn {
 .btn-primary:hover {
   color: #fff;
   background-color: #7138f4;
-  border-color: #692cf3;
+  border-color: #000000;
 }
 
 .btn-primary:focus,
@@ -11587,7 +11587,7 @@ fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #692cf3;
+  background-color: #000000;
   border-color: #6020f3;
 }
 
@@ -14759,7 +14759,7 @@ input[type="button"].btn-block {
 .badge-primary[href]:focus {
   color: #fff;
   text-decoration: none;
-  background-color: #692cf3;
+  background-color: #000000;
 }
 
 .badge-secondary {
@@ -16483,7 +16483,7 @@ a.bg-primary:hover,
 a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #692cf3 !important;
+  background-color: #000000 !important;
 }
 
 .bg-secondary {
@@ -19666,7 +19666,7 @@ button.bg-gray-900:focus {
 
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #692cf3 !important;
+  color: #000000 !important;
 }
 
 .text-secondary {
@@ -21334,7 +21334,7 @@ $full-map: (
 }
 
 .purple-600 {
-  background-color: #692cf3;
+  background-color: #000000;
 }
 
 .text-purple-600 {
@@ -22214,7 +22214,7 @@ $full-map: (
 }
 
 .purple-600 {
-  background-color: #692cf3;
+  background-color: #000000;
 }
 
 .text-purple-600 {
@@ -29350,7 +29350,7 @@ html [type="button"],
 
 @-webkit-keyframes btn-glow-primary {
   0% {
-    box-shadow: 0 0 0 0.4em #692cf3, 0 0 0 0.1em #692cf3;
+    box-shadow: 0 0 0 0.4em #000000, 0 0 0 0.1em #000000;
     transform: rotate(360deg);
   }
 
@@ -29359,13 +29359,13 @@ html [type="button"],
   }
 
   100% {
-    box-shadow: 0 0 0 0.4em #692cf3, 0 0 0 3.6em transparent;
+    box-shadow: 0 0 0 0.4em #000000, 0 0 0 3.6em transparent;
   }
 }
 
 @keyframes btn-glow-primary {
   0% {
-    box-shadow: 0 0 0 0.4em #692cf3, 0 0 0 0.1em #692cf3;
+    box-shadow: 0 0 0 0.4em #000000, 0 0 0 0.1em #000000;
     transform: rotate(360deg);
   }
 
@@ -29374,7 +29374,7 @@ html [type="button"],
   }
 
   100% {
-    box-shadow: 0 0 0 0.4em #692cf3, 0 0 0 3.6em transparent;
+    box-shadow: 0 0 0 0.4em #000000, 0 0 0 3.6em transparent;
   }
 }
 
@@ -35014,7 +35014,7 @@ select.form-control {
   padding: 10px 8px;
   border-top-left-radius: 4px;
   border-bottom-left-radius: 4px;
-  box-shadow: -3px 0px 4px rgba(0, 0, 0, 0.06);
+  box-shadow: -3px 0px 4px rgba(0, 0, 0, 1);
   color: #fff;
   font-size: 20px;
   transition: 0.3s all ease-in-out;
