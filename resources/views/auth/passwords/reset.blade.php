@@ -32,7 +32,7 @@
         <reset-component token="{{$token}}"></reset-component>
       </div>
 
-      <script src="/js/login.min.js"></script>
+      <script src="/js/login.min.js?v=1.0.1"></script>
   </body>
 </html>
 

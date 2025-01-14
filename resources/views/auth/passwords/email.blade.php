@@ -32,7 +32,7 @@
         <forgot-component></forgot-component>
       </div>
 
-      <script src="/js/login.min.js"></script>
+      <script src="/js/login.min.js?v=2.0.1"></script>
   </body>
 </html>
 
